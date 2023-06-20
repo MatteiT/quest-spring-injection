@@ -8,6 +8,8 @@ public class WildAndWizardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WildAndWizardApplication.class, args);
+
+
 	}
 
 }
